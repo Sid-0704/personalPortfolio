@@ -25,9 +25,9 @@ export const ModernHero = () => {
         {/* Main Title */}
         <h1 className="text-5xl md:text-7xl font-display font-bold mb-8 animate-slide-up" 
             style={{ animationDelay: '0.2s' }}>
-          <span style={{ color: 'var(--text-primary)' }}>Vaibhav</span>
+          <span style={{ color: 'var(--text-primary)' }}>Kaushik</span>
           <br />
-          <span className="text-gradient">Kulshrestha</span>
+          <span className="text-gradient">Raj</span>
         </h1>
 
         {/* Tagline & Bio */}

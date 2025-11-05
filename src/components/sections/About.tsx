@@ -48,7 +48,7 @@ export const About = () => {
                 <div className="w-2 h-2 sm:w-3 sm:h-3 rounded-full bg-red-500" />
                 <div className="w-2 h-2 sm:w-3 sm:h-3 rounded-full bg-yellow-500" />
                 <div className="w-2 h-2 sm:w-3 sm:h-3 rounded-full bg-green-500" />
-                <span className="ml-1 sm:ml-2 text-xs sm:text-sm" style={{ color: 'var(--text-muted)' }}>~/about-vaibhav.js</span>
+                <span className="ml-1 sm:ml-2 text-xs sm:text-sm" style={{ color: 'var(--text-muted)' }}>~/about-shitcode.js</span>
               </div>
               <div className="text-orange-400 text-xs sm:text-sm break-all">
                 <span className="text-purple-400">const</span>{' '}
